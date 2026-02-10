@@ -4,6 +4,9 @@ class Solution(object):
         :type strs: List[str]
         :rtype: str
         """
+        if not strs: return ""
+
+
         result = ""
 
         for i in range(len(strs[0])):
