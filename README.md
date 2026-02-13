@@ -8,6 +8,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/EzzeldeenMousa/leetcode-solutions/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/EzzeldeenMousa/leetcode-solutions/tree/master/0014-longest-common-prefix) |
+| [0035-search-insert-position](https://github.com/EzzeldeenMousa/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/EzzeldeenMousa/leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Hash Table
 |  |
@@ -55,4 +56,8 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/EzzeldeenMousa/leetcode-solutions/tree/master/0021-merge-two-sorted-lists) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/EzzeldeenMousa/leetcode-solutions/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
