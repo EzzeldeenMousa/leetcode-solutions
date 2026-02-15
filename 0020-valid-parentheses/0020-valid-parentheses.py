@@ -4,7 +4,7 @@ class Solution(object):
         :type s: str
         :rtype: bool
         """
-        d = {')':'(', ']':'[', '}':'{'}
+        d = {")": "(", "]": "[", "}": "{"}
         stack = []
 
         for char in s:
@@ -13,13 +13,14 @@ class Solution(object):
             else:
                 if not stack:
                     return False
-                else:
-                    if stack.pop() != d[char]:
-                        return False
-                    
+                if stack.pop() != d[char]:
+                    return False
+            
+        if stack:
+            return False
         
         return not stack
-                    
+                           
                 
 
                 
