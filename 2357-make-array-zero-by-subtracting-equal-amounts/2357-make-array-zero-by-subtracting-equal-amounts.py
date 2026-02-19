@@ -12,6 +12,6 @@ class Solution(object):
             nums = [n - x if n > 0 else 0 for n in nums]
 
             op += 1
-        return op 
+        return op  
 
             
