@@ -4,14 +4,10 @@ class Solution(object):
         :type nums: List[int]
         :rtype: int
         """
-        op = 0
+        unique_numbers = set(nums)
 
-        while any(n > 0 for n in nums):
-            x = min(n for n in nums if n > 0)
-
-            nums = [n - x if n > 0 else 0 for n in nums]
-
-            op += 1
-        return op  
+        if 0 in unique_numbers:
+            unique_numbers.remove(0)
+        return len(unique_numbers)  
 
             
