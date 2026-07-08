@@ -37,6 +37,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/EzzeldeenMousa/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/EzzeldeenMousa/leetcode-solutions/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/EzzeldeenMousa/leetcode-solutions/tree/master/0067-add-binary) |
+| [0125-valid-palindrome](https://github.com/EzzeldeenMousa/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [3498-reverse-degree-of-a-string](https://github.com/EzzeldeenMousa/leetcode-solutions/tree/master/3498-reverse-degree-of-a-string) |
 ## Stack
 |  |
@@ -49,6 +50,7 @@
 | [0027-remove-element](https://github.com/EzzeldeenMousa/leetcode-solutions/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/EzzeldeenMousa/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/EzzeldeenMousa/leetcode-solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0125-valid-palindrome](https://github.com/EzzeldeenMousa/leetcode-solutions/tree/master/0125-valid-palindrome) |
 ## String Matching
 |  |
 | ------- |
