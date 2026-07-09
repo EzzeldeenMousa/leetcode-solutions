@@ -6,9 +6,10 @@ class Solution(object):
         :rtype: List[bool]
         """
         result = []
+        maxi = max(candies)
 
         for i in range(len(candies)):
-            if (candies[i] + extraCandies) >= max(candies):
+            if (candies[i] + extraCandies) >= maxi:
                 result.append(True)
             else:
                 result.append(False)
