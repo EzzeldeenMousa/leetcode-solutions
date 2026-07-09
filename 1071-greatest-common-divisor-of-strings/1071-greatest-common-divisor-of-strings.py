@@ -6,11 +6,9 @@ class Solution(object):
         :type str2: str
         :rtype: str
         """
-        result = []
-
         if str1 + str2 != str2 + str1:
             return ""
-            
+
         gcd_lenght = gcd(len(str1), len(str2))
 
         return str1[:gcd_lenght]       
