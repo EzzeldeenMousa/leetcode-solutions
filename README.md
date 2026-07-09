@@ -13,6 +13,7 @@
 | [0035-search-insert-position](https://github.com/EzzeldeenMousa/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/EzzeldeenMousa/leetcode-solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0704-binary-search](https://github.com/EzzeldeenMousa/leetcode-solutions/tree/master/0704-binary-search) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/EzzeldeenMousa/leetcode-solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/EzzeldeenMousa/leetcode-solutions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/EzzeldeenMousa/leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Hash Table
