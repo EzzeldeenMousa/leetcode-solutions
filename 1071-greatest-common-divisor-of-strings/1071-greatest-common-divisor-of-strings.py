@@ -6,6 +6,7 @@ class Solution(object):
         :type str2: str
         :rtype: str
         """
+        
         if str1 + str2 != str2 + str1:
             return ""
 
