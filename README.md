@@ -12,6 +12,7 @@
 | [0027-remove-element](https://github.com/EzzeldeenMousa/leetcode-solutions/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/EzzeldeenMousa/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/EzzeldeenMousa/leetcode-solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0334-increasing-triplet-subsequence](https://github.com/EzzeldeenMousa/leetcode-solutions/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/EzzeldeenMousa/leetcode-solutions/tree/master/0605-can-place-flowers) |
 | [0704-binary-search](https://github.com/EzzeldeenMousa/leetcode-solutions/tree/master/0704-binary-search) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/EzzeldeenMousa/leetcode-solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -116,6 +117,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0334-increasing-triplet-subsequence](https://github.com/EzzeldeenMousa/leetcode-solutions/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/EzzeldeenMousa/leetcode-solutions/tree/master/0605-can-place-flowers) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/EzzeldeenMousa/leetcode-solutions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 ## Heap (Priority Queue)
