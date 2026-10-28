@@ -34,6 +34,7 @@
 | [0013-roman-to-integer](https://github.com/EzzeldeenMousa/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0067-add-binary](https://github.com/EzzeldeenMousa/leetcode-solutions/tree/master/0067-add-binary) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/EzzeldeenMousa/leetcode-solutions/tree/master/1071-greatest-common-divisor-of-strings) |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/EzzeldeenMousa/leetcode-solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/EzzeldeenMousa/leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## String
 |  |
