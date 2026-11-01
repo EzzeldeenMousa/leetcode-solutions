@@ -33,6 +33,7 @@
 | [0009-palindrome-number](https://github.com/EzzeldeenMousa/leetcode-solutions/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/EzzeldeenMousa/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0067-add-binary](https://github.com/EzzeldeenMousa/leetcode-solutions/tree/master/0067-add-binary) |
+| [0412-fizz-buzz](https://github.com/EzzeldeenMousa/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/EzzeldeenMousa/leetcode-solutions/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/EzzeldeenMousa/leetcode-solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/EzzeldeenMousa/leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -48,6 +49,7 @@
 | [0125-valid-palindrome](https://github.com/EzzeldeenMousa/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/EzzeldeenMousa/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/EzzeldeenMousa/leetcode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
+| [0412-fizz-buzz](https://github.com/EzzeldeenMousa/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/EzzeldeenMousa/leetcode-solutions/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1768-merge-strings-alternately](https://github.com/EzzeldeenMousa/leetcode-solutions/tree/master/1768-merge-strings-alternately) |
 | [3498-reverse-degree-of-a-string](https://github.com/EzzeldeenMousa/leetcode-solutions/tree/master/3498-reverse-degree-of-a-string) |
@@ -105,6 +107,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/EzzeldeenMousa/leetcode-solutions/tree/master/0067-add-binary) |
+| [0412-fizz-buzz](https://github.com/EzzeldeenMousa/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/EzzeldeenMousa/leetcode-solutions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [3498-reverse-degree-of-a-string](https://github.com/EzzeldeenMousa/leetcode-solutions/tree/master/3498-reverse-degree-of-a-string) |
 ## Divide and Conquer
