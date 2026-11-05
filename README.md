@@ -12,6 +12,7 @@
 | [0027-remove-element](https://github.com/EzzeldeenMousa/leetcode-solutions/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/EzzeldeenMousa/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/EzzeldeenMousa/leetcode-solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0136-single-number](https://github.com/EzzeldeenMousa/leetcode-solutions/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/EzzeldeenMousa/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/EzzeldeenMousa/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/EzzeldeenMousa/leetcode-solutions/tree/master/0334-increasing-triplet-subsequence) |
@@ -102,6 +103,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/EzzeldeenMousa/leetcode-solutions/tree/master/0067-add-binary) |
+| [0136-single-number](https://github.com/EzzeldeenMousa/leetcode-solutions/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/EzzeldeenMousa/leetcode-solutions/tree/master/0190-reverse-bits) |
 | [0338-counting-bits](https://github.com/EzzeldeenMousa/leetcode-solutions/tree/master/0338-counting-bits) |
 | [0401-binary-watch](https://github.com/EzzeldeenMousa/leetcode-solutions/tree/master/0401-binary-watch) |
