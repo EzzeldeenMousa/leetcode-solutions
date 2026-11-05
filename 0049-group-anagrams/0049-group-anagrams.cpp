@@ -10,11 +10,11 @@ public:
         }
 
         vector<vector<string>> result;
-        for(auto pair: seen){
+        for(auto& pair: seen){
             result.push_back(pair.second);
         }
 
         return result;
-        
+
     }
 };
