@@ -11,6 +11,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/EzzeldeenMousa/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/EzzeldeenMousa/leetcode-solutions/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/EzzeldeenMousa/leetcode-solutions/tree/master/0035-search-insert-position) |
+| [0049-group-anagrams](https://github.com/EzzeldeenMousa/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/EzzeldeenMousa/leetcode-solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0136-single-number](https://github.com/EzzeldeenMousa/leetcode-solutions/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/EzzeldeenMousa/leetcode-solutions/tree/master/0217-contains-duplicate) |
@@ -27,6 +28,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/EzzeldeenMousa/leetcode-solutions/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/EzzeldeenMousa/leetcode-solutions/tree/master/0013-roman-to-integer) |
+| [0049-group-anagrams](https://github.com/EzzeldeenMousa/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/EzzeldeenMousa/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/EzzeldeenMousa/leetcode-solutions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/EzzeldeenMousa/leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -47,6 +49,7 @@
 | [0014-longest-common-prefix](https://github.com/EzzeldeenMousa/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/EzzeldeenMousa/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/EzzeldeenMousa/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0049-group-anagrams](https://github.com/EzzeldeenMousa/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/EzzeldeenMousa/leetcode-solutions/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/EzzeldeenMousa/leetcode-solutions/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/EzzeldeenMousa/leetcode-solutions/tree/master/0125-valid-palindrome) |
@@ -83,6 +86,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/EzzeldeenMousa/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/EzzeldeenMousa/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/EzzeldeenMousa/leetcode-solutions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/EzzeldeenMousa/leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
