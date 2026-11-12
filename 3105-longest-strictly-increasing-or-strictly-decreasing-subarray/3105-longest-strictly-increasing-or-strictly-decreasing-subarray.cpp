@@ -4,7 +4,6 @@ public:
         int longest = 0;           
         int inc=1;
         int dec=1;
-        int equal=1;
 
         if(nums.size()==1){
                 return 1;
@@ -25,9 +24,7 @@ public:
             else if(nums[i]==nums[i-1]){
                 inc=1;
                 dec=1;
-            }
-
-            
+            }            
 
             longest = max(longest, max(inc, dec));
         }
