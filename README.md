@@ -12,6 +12,7 @@
 | [0027-remove-element](https://github.com/EzzeldeenMousa/leetcode-solutions/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/EzzeldeenMousa/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/EzzeldeenMousa/leetcode-solutions/tree/master/0049-group-anagrams) |
+| [0066-plus-one](https://github.com/EzzeldeenMousa/leetcode-solutions/tree/master/0066-plus-one) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/EzzeldeenMousa/leetcode-solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0136-single-number](https://github.com/EzzeldeenMousa/leetcode-solutions/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/EzzeldeenMousa/leetcode-solutions/tree/master/0217-contains-duplicate) |
@@ -39,6 +40,7 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/EzzeldeenMousa/leetcode-solutions/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/EzzeldeenMousa/leetcode-solutions/tree/master/0013-roman-to-integer) |
+| [0066-plus-one](https://github.com/EzzeldeenMousa/leetcode-solutions/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/EzzeldeenMousa/leetcode-solutions/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/EzzeldeenMousa/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/EzzeldeenMousa/leetcode-solutions/tree/master/1071-greatest-common-divisor-of-strings) |
