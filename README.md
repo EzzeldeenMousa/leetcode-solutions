@@ -31,6 +31,7 @@
 | [0013-roman-to-integer](https://github.com/EzzeldeenMousa/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/EzzeldeenMousa/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/EzzeldeenMousa/leetcode-solutions/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/EzzeldeenMousa/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/EzzeldeenMousa/leetcode-solutions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/EzzeldeenMousa/leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Math
@@ -55,6 +56,7 @@
 | [0067-add-binary](https://github.com/EzzeldeenMousa/leetcode-solutions/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/EzzeldeenMousa/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/EzzeldeenMousa/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
+| [0242-valid-anagram](https://github.com/EzzeldeenMousa/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/EzzeldeenMousa/leetcode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0412-fizz-buzz](https://github.com/EzzeldeenMousa/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/EzzeldeenMousa/leetcode-solutions/tree/master/1071-greatest-common-divisor-of-strings) |
@@ -89,6 +91,7 @@
 | ------- |
 | [0049-group-anagrams](https://github.com/EzzeldeenMousa/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/EzzeldeenMousa/leetcode-solutions/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/EzzeldeenMousa/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/EzzeldeenMousa/leetcode-solutions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/EzzeldeenMousa/leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Linked List
