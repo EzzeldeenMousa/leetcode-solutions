@@ -9,25 +9,12 @@ public:
         }
 
         for(int i=0; i<s.size(); i++){
-            if(S_freq.contains(s[i])){
-                S_freq[s[i]]++;
-            }
-
-            else{
-                S_freq[s[i]] = 1;
-            }
+            S_freq[s[i]]++;    
         }
 
         for(int i=0; i<t.size(); i++){
-            if(T_freq.contains(t[i])){
-                T_freq[t[i]]++;
-            }
-
-            else{
-                T_freq[t[i]]=1;
-            }
+            T_freq[t[i]]++;
         }
-
 
         if(S_freq==T_freq){
             return true;
